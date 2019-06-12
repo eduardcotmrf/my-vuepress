@@ -59,20 +59,10 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'using-vue',
+            'using-vue'
           ]
         }
-      ],
-      '/MarfeelAlfred/': [{
-        title: 'MarfeelAlfred',
-        collapsable: false,
-        children: getChildren('docs/MarfeelAlfred'),
-      }],
-      '/MarfeelCodingStandards/': [{
-        title: 'MarfeelCodingStandards',
-        collapsable: false,
-        children: getChildren('docs/MarfeelCodingStandards'),
-      }]
+      ]
     }
   },
 
