@@ -1,0 +1,3 @@
+[submodule "docs/MarfeelAlfred"]
+	path = docs/MarfeelAlfred
+	url = git@github.com:Marfeel/MarfeelAlfred.git
