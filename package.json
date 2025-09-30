@@ -21,7 +21,7 @@
   "dependencies": {
     "alfred": "git+ssh://git@github.com/Marfeel/MarfeelAlfred.git",
     "glob": "^7.1.4",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "marfeel-coding-standards": "git+ssh://git@github.com/Marfeel/MarfeelCodingStandards.git",
     "markdown-it": "^8.4.2",
     "markdown-it-meta": "0.0.1"
